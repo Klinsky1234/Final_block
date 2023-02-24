@@ -10,6 +10,7 @@
 
 string[] arr = new string[6] { "1234", "1", "-2", "computer science", "tes", "Test1" };
 string[] arr1 = new string[arr.Length];
+
 void Cycle(string[] arr, string[] arr1)
 {
     int count = 0;

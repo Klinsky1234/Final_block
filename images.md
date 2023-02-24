@@ -1,0 +1,1 @@
+![Блок-схема] (Block-diagram.jpg)
